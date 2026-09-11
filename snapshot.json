@@ -1,0 +1,3142 @@
+{
+  "generatedAt": "2026-09-11T18:47:08.414Z",
+  "status": {
+    "syncedAt": "2026-09-11T18:46:57.393Z",
+    "signedIn": true,
+    "solvedCount": 215
+  },
+  "profile": {
+    "empty": false,
+    "grade": "B",
+    "label": "Strong — polish the gaps",
+    "score": 75,
+    "components": [
+      {
+        "key": "difficulty",
+        "label": "Difficulty mix",
+        "score": 0.458825,
+        "weight": 0.25,
+        "detail": "63E / 131M / 21H solved"
+      },
+      {
+        "key": "depth",
+        "label": "Topic depth",
+        "score": 0.8617238562091502,
+        "weight": 0.3,
+        "detail": "Avg 10/12 solved per core topic"
+      },
+      {
+        "key": "breadth",
+        "label": "Topic breadth",
+        "score": 0.9642857142857143,
+        "weight": 0.15,
+        "detail": "27/28 core topics touched at all"
+      },
+      {
+        "key": "efficiency",
+        "label": "Solution efficiency",
+        "score": 0.6046511627906976,
+        "weight": 0.1,
+        "detail": "2.2 submissions per solve on average"
+      },
+      {
+        "key": "momentum",
+        "label": "Momentum",
+        "score": 1,
+        "weight": 0.1,
+        "detail": "35 solved in the last 30 days"
+      },
+      {
+        "key": "interviewSim",
+        "label": "Timed interview simulation",
+        "score": null,
+        "weight": 0.1,
+        "detail": "No timed exams taken yet"
+      }
+    ],
+    "roundReadiness": [
+      {
+        "round": "Phone Screen",
+        "score": 0.9017361111111111,
+        "label": "Ready",
+        "detail": "Fundamentals coverage 91%, 63 Easy + 131 Medium solved"
+      },
+      {
+        "round": "Onsite Coding",
+        "score": 0.6864778516057586,
+        "label": "Mostly ready",
+        "detail": "Advanced-topic coverage 74%, 2.2 submissions/solve"
+      },
+      {
+        "round": "Bar Raiser / Hard Problems",
+        "score": 0.517358803986711,
+        "label": "Needs work",
+        "detail": "21 Hard solved (target ~60), advanced-topic coverage 74%"
+      }
+    ],
+    "totals": {
+      "solved": 215,
+      "attempted": 8,
+      "byDifficulty": {
+        "EASY": {
+          "solved": 63,
+          "total": 963
+        },
+        "MEDIUM": {
+          "solved": 131,
+          "total": 2111
+        },
+        "HARD": {
+          "solved": 21,
+          "total": 973
+        }
+      },
+      "avgFumble": 2.19,
+      "last7": 2,
+      "last30": 35
+    },
+    "activity": {
+      "cells": [
+        {
+          "date": "2025-09-06",
+          "count": 0
+        },
+        {
+          "date": "2025-09-07",
+          "count": 0
+        },
+        {
+          "date": "2025-09-08",
+          "count": 0
+        },
+        {
+          "date": "2025-09-09",
+          "count": 0
+        },
+        {
+          "date": "2025-09-10",
+          "count": 0
+        },
+        {
+          "date": "2025-09-11",
+          "count": 0
+        },
+        {
+          "date": "2025-09-12",
+          "count": 0
+        },
+        {
+          "date": "2025-09-13",
+          "count": 0
+        },
+        {
+          "date": "2025-09-14",
+          "count": 0
+        },
+        {
+          "date": "2025-09-15",
+          "count": 0
+        },
+        {
+          "date": "2025-09-16",
+          "count": 0
+        },
+        {
+          "date": "2025-09-17",
+          "count": 0
+        },
+        {
+          "date": "2025-09-18",
+          "count": 0
+        },
+        {
+          "date": "2025-09-19",
+          "count": 0
+        },
+        {
+          "date": "2025-09-20",
+          "count": 0
+        },
+        {
+          "date": "2025-09-21",
+          "count": 0
+        },
+        {
+          "date": "2025-09-22",
+          "count": 0
+        },
+        {
+          "date": "2025-09-23",
+          "count": 0
+        },
+        {
+          "date": "2025-09-24",
+          "count": 0
+        },
+        {
+          "date": "2025-09-25",
+          "count": 0
+        },
+        {
+          "date": "2025-09-26",
+          "count": 0
+        },
+        {
+          "date": "2025-09-27",
+          "count": 0
+        },
+        {
+          "date": "2025-09-28",
+          "count": 0
+        },
+        {
+          "date": "2025-09-29",
+          "count": 0
+        },
+        {
+          "date": "2025-09-30",
+          "count": 0
+        },
+        {
+          "date": "2025-10-01",
+          "count": 0
+        },
+        {
+          "date": "2025-10-02",
+          "count": 0
+        },
+        {
+          "date": "2025-10-03",
+          "count": 0
+        },
+        {
+          "date": "2025-10-04",
+          "count": 0
+        },
+        {
+          "date": "2025-10-05",
+          "count": 0
+        },
+        {
+          "date": "2025-10-06",
+          "count": 0
+        },
+        {
+          "date": "2025-10-07",
+          "count": 0
+        },
+        {
+          "date": "2025-10-08",
+          "count": 0
+        },
+        {
+          "date": "2025-10-09",
+          "count": 0
+        },
+        {
+          "date": "2025-10-10",
+          "count": 0
+        },
+        {
+          "date": "2025-10-11",
+          "count": 0
+        },
+        {
+          "date": "2025-10-12",
+          "count": 0
+        },
+        {
+          "date": "2025-10-13",
+          "count": 0
+        },
+        {
+          "date": "2025-10-14",
+          "count": 0
+        },
+        {
+          "date": "2025-10-15",
+          "count": 0
+        },
+        {
+          "date": "2025-10-16",
+          "count": 0
+        },
+        {
+          "date": "2025-10-17",
+          "count": 0
+        },
+        {
+          "date": "2025-10-18",
+          "count": 0
+        },
+        {
+          "date": "2025-10-19",
+          "count": 0
+        },
+        {
+          "date": "2025-10-20",
+          "count": 0
+        },
+        {
+          "date": "2025-10-21",
+          "count": 0
+        },
+        {
+          "date": "2025-10-22",
+          "count": 0
+        },
+        {
+          "date": "2025-10-23",
+          "count": 0
+        },
+        {
+          "date": "2025-10-24",
+          "count": 0
+        },
+        {
+          "date": "2025-10-25",
+          "count": 0
+        },
+        {
+          "date": "2025-10-26",
+          "count": 0
+        },
+        {
+          "date": "2025-10-27",
+          "count": 0
+        },
+        {
+          "date": "2025-10-28",
+          "count": 0
+        },
+        {
+          "date": "2025-10-29",
+          "count": 0
+        },
+        {
+          "date": "2025-10-30",
+          "count": 0
+        },
+        {
+          "date": "2025-10-31",
+          "count": 0
+        },
+        {
+          "date": "2025-11-01",
+          "count": 0
+        },
+        {
+          "date": "2025-11-02",
+          "count": 0
+        },
+        {
+          "date": "2025-11-03",
+          "count": 0
+        },
+        {
+          "date": "2025-11-04",
+          "count": 0
+        },
+        {
+          "date": "2025-11-05",
+          "count": 0
+        },
+        {
+          "date": "2025-11-06",
+          "count": 0
+        },
+        {
+          "date": "2025-11-07",
+          "count": 0
+        },
+        {
+          "date": "2025-11-08",
+          "count": 0
+        },
+        {
+          "date": "2025-11-09",
+          "count": 0
+        },
+        {
+          "date": "2025-11-10",
+          "count": 0
+        },
+        {
+          "date": "2025-11-11",
+          "count": 0
+        },
+        {
+          "date": "2025-11-12",
+          "count": 0
+        },
+        {
+          "date": "2025-11-13",
+          "count": 0
+        },
+        {
+          "date": "2025-11-14",
+          "count": 0
+        },
+        {
+          "date": "2025-11-15",
+          "count": 0
+        },
+        {
+          "date": "2025-11-16",
+          "count": 0
+        },
+        {
+          "date": "2025-11-17",
+          "count": 0
+        },
+        {
+          "date": "2025-11-18",
+          "count": 0
+        },
+        {
+          "date": "2025-11-19",
+          "count": 0
+        },
+        {
+          "date": "2025-11-20",
+          "count": 0
+        },
+        {
+          "date": "2025-11-21",
+          "count": 0
+        },
+        {
+          "date": "2025-11-22",
+          "count": 0
+        },
+        {
+          "date": "2025-11-23",
+          "count": 0
+        },
+        {
+          "date": "2025-11-24",
+          "count": 0
+        },
+        {
+          "date": "2025-11-25",
+          "count": 0
+        },
+        {
+          "date": "2025-11-26",
+          "count": 0
+        },
+        {
+          "date": "2025-11-27",
+          "count": 0
+        },
+        {
+          "date": "2025-11-28",
+          "count": 0
+        },
+        {
+          "date": "2025-11-29",
+          "count": 0
+        },
+        {
+          "date": "2025-11-30",
+          "count": 0
+        },
+        {
+          "date": "2025-12-01",
+          "count": 0
+        },
+        {
+          "date": "2025-12-02",
+          "count": 0
+        },
+        {
+          "date": "2025-12-03",
+          "count": 0
+        },
+        {
+          "date": "2025-12-04",
+          "count": 0
+        },
+        {
+          "date": "2025-12-05",
+          "count": 0
+        },
+        {
+          "date": "2025-12-06",
+          "count": 0
+        },
+        {
+          "date": "2025-12-07",
+          "count": 0
+        },
+        {
+          "date": "2025-12-08",
+          "count": 0
+        },
+        {
+          "date": "2025-12-09",
+          "count": 0
+        },
+        {
+          "date": "2025-12-10",
+          "count": 0
+        },
+        {
+          "date": "2025-12-11",
+          "count": 0
+        },
+        {
+          "date": "2025-12-12",
+          "count": 0
+        },
+        {
+          "date": "2025-12-13",
+          "count": 0
+        },
+        {
+          "date": "2025-12-14",
+          "count": 0
+        },
+        {
+          "date": "2025-12-15",
+          "count": 0
+        },
+        {
+          "date": "2025-12-16",
+          "count": 0
+        },
+        {
+          "date": "2025-12-17",
+          "count": 0
+        },
+        {
+          "date": "2025-12-18",
+          "count": 0
+        },
+        {
+          "date": "2025-12-19",
+          "count": 0
+        },
+        {
+          "date": "2025-12-20",
+          "count": 0
+        },
+        {
+          "date": "2025-12-21",
+          "count": 0
+        },
+        {
+          "date": "2025-12-22",
+          "count": 0
+        },
+        {
+          "date": "2025-12-23",
+          "count": 0
+        },
+        {
+          "date": "2025-12-24",
+          "count": 0
+        },
+        {
+          "date": "2025-12-25",
+          "count": 0
+        },
+        {
+          "date": "2025-12-26",
+          "count": 0
+        },
+        {
+          "date": "2025-12-27",
+          "count": 0
+        },
+        {
+          "date": "2025-12-28",
+          "count": 0
+        },
+        {
+          "date": "2025-12-29",
+          "count": 0
+        },
+        {
+          "date": "2025-12-30",
+          "count": 0
+        },
+        {
+          "date": "2025-12-31",
+          "count": 0
+        },
+        {
+          "date": "2026-01-01",
+          "count": 0
+        },
+        {
+          "date": "2026-01-02",
+          "count": 0
+        },
+        {
+          "date": "2026-01-03",
+          "count": 0
+        },
+        {
+          "date": "2026-01-04",
+          "count": 0
+        },
+        {
+          "date": "2026-01-05",
+          "count": 0
+        },
+        {
+          "date": "2026-01-06",
+          "count": 0
+        },
+        {
+          "date": "2026-01-07",
+          "count": 0
+        },
+        {
+          "date": "2026-01-08",
+          "count": 0
+        },
+        {
+          "date": "2026-01-09",
+          "count": 0
+        },
+        {
+          "date": "2026-01-10",
+          "count": 0
+        },
+        {
+          "date": "2026-01-11",
+          "count": 0
+        },
+        {
+          "date": "2026-01-12",
+          "count": 0
+        },
+        {
+          "date": "2026-01-13",
+          "count": 0
+        },
+        {
+          "date": "2026-01-14",
+          "count": 0
+        },
+        {
+          "date": "2026-01-15",
+          "count": 0
+        },
+        {
+          "date": "2026-01-16",
+          "count": 0
+        },
+        {
+          "date": "2026-01-17",
+          "count": 0
+        },
+        {
+          "date": "2026-01-18",
+          "count": 0
+        },
+        {
+          "date": "2026-01-19",
+          "count": 0
+        },
+        {
+          "date": "2026-01-20",
+          "count": 0
+        },
+        {
+          "date": "2026-01-21",
+          "count": 0
+        },
+        {
+          "date": "2026-01-22",
+          "count": 0
+        },
+        {
+          "date": "2026-01-23",
+          "count": 0
+        },
+        {
+          "date": "2026-01-24",
+          "count": 0
+        },
+        {
+          "date": "2026-01-25",
+          "count": 0
+        },
+        {
+          "date": "2026-01-26",
+          "count": 0
+        },
+        {
+          "date": "2026-01-27",
+          "count": 0
+        },
+        {
+          "date": "2026-01-28",
+          "count": 0
+        },
+        {
+          "date": "2026-01-29",
+          "count": 0
+        },
+        {
+          "date": "2026-01-30",
+          "count": 0
+        },
+        {
+          "date": "2026-01-31",
+          "count": 0
+        },
+        {
+          "date": "2026-02-01",
+          "count": 0
+        },
+        {
+          "date": "2026-02-02",
+          "count": 0
+        },
+        {
+          "date": "2026-02-03",
+          "count": 0
+        },
+        {
+          "date": "2026-02-04",
+          "count": 0
+        },
+        {
+          "date": "2026-02-05",
+          "count": 0
+        },
+        {
+          "date": "2026-02-06",
+          "count": 0
+        },
+        {
+          "date": "2026-02-07",
+          "count": 0
+        },
+        {
+          "date": "2026-02-08",
+          "count": 0
+        },
+        {
+          "date": "2026-02-09",
+          "count": 0
+        },
+        {
+          "date": "2026-02-10",
+          "count": 0
+        },
+        {
+          "date": "2026-02-11",
+          "count": 0
+        },
+        {
+          "date": "2026-02-12",
+          "count": 0
+        },
+        {
+          "date": "2026-02-13",
+          "count": 0
+        },
+        {
+          "date": "2026-02-14",
+          "count": 0
+        },
+        {
+          "date": "2026-02-15",
+          "count": 0
+        },
+        {
+          "date": "2026-02-16",
+          "count": 0
+        },
+        {
+          "date": "2026-02-17",
+          "count": 0
+        },
+        {
+          "date": "2026-02-18",
+          "count": 0
+        },
+        {
+          "date": "2026-02-19",
+          "count": 0
+        },
+        {
+          "date": "2026-02-20",
+          "count": 0
+        },
+        {
+          "date": "2026-02-21",
+          "count": 0
+        },
+        {
+          "date": "2026-02-22",
+          "count": 0
+        },
+        {
+          "date": "2026-02-23",
+          "count": 0
+        },
+        {
+          "date": "2026-02-24",
+          "count": 0
+        },
+        {
+          "date": "2026-02-25",
+          "count": 0
+        },
+        {
+          "date": "2026-02-26",
+          "count": 0
+        },
+        {
+          "date": "2026-02-27",
+          "count": 0
+        },
+        {
+          "date": "2026-02-28",
+          "count": 0
+        },
+        {
+          "date": "2026-03-01",
+          "count": 0
+        },
+        {
+          "date": "2026-03-02",
+          "count": 0
+        },
+        {
+          "date": "2026-03-03",
+          "count": 0
+        },
+        {
+          "date": "2026-03-04",
+          "count": 0
+        },
+        {
+          "date": "2026-03-05",
+          "count": 0
+        },
+        {
+          "date": "2026-03-06",
+          "count": 0
+        },
+        {
+          "date": "2026-03-07",
+          "count": 0
+        },
+        {
+          "date": "2026-03-08",
+          "count": 0
+        },
+        {
+          "date": "2026-03-09",
+          "count": 0
+        },
+        {
+          "date": "2026-03-10",
+          "count": 0
+        },
+        {
+          "date": "2026-03-11",
+          "count": 0
+        },
+        {
+          "date": "2026-03-12",
+          "count": 0
+        },
+        {
+          "date": "2026-03-13",
+          "count": 0
+        },
+        {
+          "date": "2026-03-14",
+          "count": 0
+        },
+        {
+          "date": "2026-03-15",
+          "count": 0
+        },
+        {
+          "date": "2026-03-16",
+          "count": 0
+        },
+        {
+          "date": "2026-03-17",
+          "count": 0
+        },
+        {
+          "date": "2026-03-18",
+          "count": 0
+        },
+        {
+          "date": "2026-03-19",
+          "count": 0
+        },
+        {
+          "date": "2026-03-20",
+          "count": 0
+        },
+        {
+          "date": "2026-03-21",
+          "count": 0
+        },
+        {
+          "date": "2026-03-22",
+          "count": 0
+        },
+        {
+          "date": "2026-03-23",
+          "count": 0
+        },
+        {
+          "date": "2026-03-24",
+          "count": 0
+        },
+        {
+          "date": "2026-03-25",
+          "count": 0
+        },
+        {
+          "date": "2026-03-26",
+          "count": 0
+        },
+        {
+          "date": "2026-03-27",
+          "count": 0
+        },
+        {
+          "date": "2026-03-28",
+          "count": 0
+        },
+        {
+          "date": "2026-03-29",
+          "count": 0
+        },
+        {
+          "date": "2026-03-30",
+          "count": 0
+        },
+        {
+          "date": "2026-03-31",
+          "count": 0
+        },
+        {
+          "date": "2026-04-01",
+          "count": 0
+        },
+        {
+          "date": "2026-04-02",
+          "count": 0
+        },
+        {
+          "date": "2026-04-03",
+          "count": 0
+        },
+        {
+          "date": "2026-04-04",
+          "count": 0
+        },
+        {
+          "date": "2026-04-05",
+          "count": 0
+        },
+        {
+          "date": "2026-04-06",
+          "count": 0
+        },
+        {
+          "date": "2026-04-07",
+          "count": 0
+        },
+        {
+          "date": "2026-04-08",
+          "count": 0
+        },
+        {
+          "date": "2026-04-09",
+          "count": 0
+        },
+        {
+          "date": "2026-04-10",
+          "count": 0
+        },
+        {
+          "date": "2026-04-11",
+          "count": 0
+        },
+        {
+          "date": "2026-04-12",
+          "count": 0
+        },
+        {
+          "date": "2026-04-13",
+          "count": 0
+        },
+        {
+          "date": "2026-04-14",
+          "count": 0
+        },
+        {
+          "date": "2026-04-15",
+          "count": 0
+        },
+        {
+          "date": "2026-04-16",
+          "count": 0
+        },
+        {
+          "date": "2026-04-17",
+          "count": 0
+        },
+        {
+          "date": "2026-04-18",
+          "count": 0
+        },
+        {
+          "date": "2026-04-19",
+          "count": 0
+        },
+        {
+          "date": "2026-04-20",
+          "count": 0
+        },
+        {
+          "date": "2026-04-21",
+          "count": 0
+        },
+        {
+          "date": "2026-04-22",
+          "count": 0
+        },
+        {
+          "date": "2026-04-23",
+          "count": 0
+        },
+        {
+          "date": "2026-04-24",
+          "count": 0
+        },
+        {
+          "date": "2026-04-25",
+          "count": 0
+        },
+        {
+          "date": "2026-04-26",
+          "count": 0
+        },
+        {
+          "date": "2026-04-27",
+          "count": 0
+        },
+        {
+          "date": "2026-04-28",
+          "count": 0
+        },
+        {
+          "date": "2026-04-29",
+          "count": 0
+        },
+        {
+          "date": "2026-04-30",
+          "count": 0
+        },
+        {
+          "date": "2026-05-01",
+          "count": 0
+        },
+        {
+          "date": "2026-05-02",
+          "count": 0
+        },
+        {
+          "date": "2026-05-03",
+          "count": 0
+        },
+        {
+          "date": "2026-05-04",
+          "count": 0
+        },
+        {
+          "date": "2026-05-05",
+          "count": 0
+        },
+        {
+          "date": "2026-05-06",
+          "count": 0
+        },
+        {
+          "date": "2026-05-07",
+          "count": 0
+        },
+        {
+          "date": "2026-05-08",
+          "count": 0
+        },
+        {
+          "date": "2026-05-09",
+          "count": 0
+        },
+        {
+          "date": "2026-05-10",
+          "count": 0
+        },
+        {
+          "date": "2026-05-11",
+          "count": 0
+        },
+        {
+          "date": "2026-05-12",
+          "count": 0
+        },
+        {
+          "date": "2026-05-13",
+          "count": 0
+        },
+        {
+          "date": "2026-05-14",
+          "count": 0
+        },
+        {
+          "date": "2026-05-15",
+          "count": 0
+        },
+        {
+          "date": "2026-05-16",
+          "count": 0
+        },
+        {
+          "date": "2026-05-17",
+          "count": 0
+        },
+        {
+          "date": "2026-05-18",
+          "count": 0
+        },
+        {
+          "date": "2026-05-19",
+          "count": 0
+        },
+        {
+          "date": "2026-05-20",
+          "count": 0
+        },
+        {
+          "date": "2026-05-21",
+          "count": 0
+        },
+        {
+          "date": "2026-05-22",
+          "count": 0
+        },
+        {
+          "date": "2026-05-23",
+          "count": 0
+        },
+        {
+          "date": "2026-05-24",
+          "count": 0
+        },
+        {
+          "date": "2026-05-25",
+          "count": 0
+        },
+        {
+          "date": "2026-05-26",
+          "count": 0
+        },
+        {
+          "date": "2026-05-27",
+          "count": 0
+        },
+        {
+          "date": "2026-05-28",
+          "count": 0
+        },
+        {
+          "date": "2026-05-29",
+          "count": 0
+        },
+        {
+          "date": "2026-05-30",
+          "count": 0
+        },
+        {
+          "date": "2026-05-31",
+          "count": 0
+        },
+        {
+          "date": "2026-06-01",
+          "count": 0
+        },
+        {
+          "date": "2026-06-02",
+          "count": 0
+        },
+        {
+          "date": "2026-06-03",
+          "count": 0
+        },
+        {
+          "date": "2026-06-04",
+          "count": 0
+        },
+        {
+          "date": "2026-06-05",
+          "count": 0
+        },
+        {
+          "date": "2026-06-06",
+          "count": 0
+        },
+        {
+          "date": "2026-06-07",
+          "count": 0
+        },
+        {
+          "date": "2026-06-08",
+          "count": 0
+        },
+        {
+          "date": "2026-06-09",
+          "count": 0
+        },
+        {
+          "date": "2026-06-10",
+          "count": 0
+        },
+        {
+          "date": "2026-06-11",
+          "count": 0
+        },
+        {
+          "date": "2026-06-12",
+          "count": 0
+        },
+        {
+          "date": "2026-06-13",
+          "count": 0
+        },
+        {
+          "date": "2026-06-14",
+          "count": 0
+        },
+        {
+          "date": "2026-06-15",
+          "count": 0
+        },
+        {
+          "date": "2026-06-16",
+          "count": 0
+        },
+        {
+          "date": "2026-06-17",
+          "count": 0
+        },
+        {
+          "date": "2026-06-18",
+          "count": 0
+        },
+        {
+          "date": "2026-06-19",
+          "count": 0
+        },
+        {
+          "date": "2026-06-20",
+          "count": 1
+        },
+        {
+          "date": "2026-06-21",
+          "count": 0
+        },
+        {
+          "date": "2026-06-22",
+          "count": 0
+        },
+        {
+          "date": "2026-06-23",
+          "count": 0
+        },
+        {
+          "date": "2026-06-24",
+          "count": 0
+        },
+        {
+          "date": "2026-06-25",
+          "count": 0
+        },
+        {
+          "date": "2026-06-26",
+          "count": 0
+        },
+        {
+          "date": "2026-06-27",
+          "count": 0
+        },
+        {
+          "date": "2026-06-28",
+          "count": 0
+        },
+        {
+          "date": "2026-06-29",
+          "count": 6
+        },
+        {
+          "date": "2026-06-30",
+          "count": 0
+        },
+        {
+          "date": "2026-07-01",
+          "count": 0
+        },
+        {
+          "date": "2026-07-02",
+          "count": 0
+        },
+        {
+          "date": "2026-07-03",
+          "count": 0
+        },
+        {
+          "date": "2026-07-04",
+          "count": 1
+        },
+        {
+          "date": "2026-07-05",
+          "count": 0
+        },
+        {
+          "date": "2026-07-06",
+          "count": 0
+        },
+        {
+          "date": "2026-07-07",
+          "count": 0
+        },
+        {
+          "date": "2026-07-08",
+          "count": 0
+        },
+        {
+          "date": "2026-07-09",
+          "count": 0
+        },
+        {
+          "date": "2026-07-10",
+          "count": 0
+        },
+        {
+          "date": "2026-07-11",
+          "count": 0
+        },
+        {
+          "date": "2026-07-12",
+          "count": 6
+        },
+        {
+          "date": "2026-07-13",
+          "count": 3
+        },
+        {
+          "date": "2026-07-14",
+          "count": 2
+        },
+        {
+          "date": "2026-07-15",
+          "count": 26
+        },
+        {
+          "date": "2026-07-16",
+          "count": 16
+        },
+        {
+          "date": "2026-07-17",
+          "count": 0
+        },
+        {
+          "date": "2026-07-18",
+          "count": 5
+        },
+        {
+          "date": "2026-07-19",
+          "count": 1
+        },
+        {
+          "date": "2026-07-20",
+          "count": 1
+        },
+        {
+          "date": "2026-07-21",
+          "count": 4
+        },
+        {
+          "date": "2026-07-22",
+          "count": 0
+        },
+        {
+          "date": "2026-07-23",
+          "count": 3
+        },
+        {
+          "date": "2026-07-24",
+          "count": 0
+        },
+        {
+          "date": "2026-07-25",
+          "count": 0
+        },
+        {
+          "date": "2026-07-26",
+          "count": 0
+        },
+        {
+          "date": "2026-07-27",
+          "count": 0
+        },
+        {
+          "date": "2026-07-28",
+          "count": 9
+        },
+        {
+          "date": "2026-07-29",
+          "count": 8
+        },
+        {
+          "date": "2026-07-30",
+          "count": 0
+        },
+        {
+          "date": "2026-07-31",
+          "count": 1
+        },
+        {
+          "date": "2026-08-01",
+          "count": 1
+        },
+        {
+          "date": "2026-08-02",
+          "count": 2
+        },
+        {
+          "date": "2026-08-03",
+          "count": 2
+        },
+        {
+          "date": "2026-08-04",
+          "count": 0
+        },
+        {
+          "date": "2026-08-05",
+          "count": 0
+        },
+        {
+          "date": "2026-08-06",
+          "count": 1
+        },
+        {
+          "date": "2026-08-07",
+          "count": 4
+        },
+        {
+          "date": "2026-08-08",
+          "count": 1
+        },
+        {
+          "date": "2026-08-09",
+          "count": 0
+        },
+        {
+          "date": "2026-08-10",
+          "count": 1
+        },
+        {
+          "date": "2026-08-11",
+          "count": 1
+        },
+        {
+          "date": "2026-08-12",
+          "count": 9
+        },
+        {
+          "date": "2026-08-13",
+          "count": 7
+        },
+        {
+          "date": "2026-08-14",
+          "count": 10
+        },
+        {
+          "date": "2026-08-15",
+          "count": 4
+        },
+        {
+          "date": "2026-08-16",
+          "count": 0
+        },
+        {
+          "date": "2026-08-17",
+          "count": 0
+        },
+        {
+          "date": "2026-08-18",
+          "count": 0
+        },
+        {
+          "date": "2026-08-19",
+          "count": 0
+        },
+        {
+          "date": "2026-08-20",
+          "count": 7
+        },
+        {
+          "date": "2026-08-21",
+          "count": 0
+        },
+        {
+          "date": "2026-08-22",
+          "count": 1
+        },
+        {
+          "date": "2026-08-23",
+          "count": 0
+        },
+        {
+          "date": "2026-08-24",
+          "count": 0
+        },
+        {
+          "date": "2026-08-25",
+          "count": 0
+        },
+        {
+          "date": "2026-08-26",
+          "count": 0
+        },
+        {
+          "date": "2026-08-27",
+          "count": 0
+        },
+        {
+          "date": "2026-08-28",
+          "count": 0
+        },
+        {
+          "date": "2026-08-29",
+          "count": 0
+        },
+        {
+          "date": "2026-08-30",
+          "count": 1
+        },
+        {
+          "date": "2026-08-31",
+          "count": 3
+        },
+        {
+          "date": "2026-09-01",
+          "count": 0
+        },
+        {
+          "date": "2026-09-02",
+          "count": 0
+        },
+        {
+          "date": "2026-09-03",
+          "count": 0
+        },
+        {
+          "date": "2026-09-04",
+          "count": 0
+        },
+        {
+          "date": "2026-09-05",
+          "count": 0
+        },
+        {
+          "date": "2026-09-06",
+          "count": 0
+        },
+        {
+          "date": "2026-09-07",
+          "count": 1
+        },
+        {
+          "date": "2026-09-08",
+          "count": 1
+        },
+        {
+          "date": "2026-09-09",
+          "count": 0
+        },
+        {
+          "date": "2026-09-10",
+          "count": 0
+        },
+        {
+          "date": "2026-09-11",
+          "count": 0
+        }
+      ],
+      "currentStreak": 0,
+      "longestStreak": 6,
+      "totalActiveDays": 53
+    },
+    "strengths": [
+      {
+        "topic": "array",
+        "label": "Array",
+        "weight": 1,
+        "available": 2237,
+        "solved": 119,
+        "attemptedOnly": 2,
+        "target": 12,
+        "avgSubmissions": 2.4453781512605044,
+        "coverage": 1
+      },
+      {
+        "topic": "dynamic-programming",
+        "label": "Dynamic Programming",
+        "weight": 1,
+        "available": 676,
+        "solved": 40,
+        "attemptedOnly": 2,
+        "target": 12,
+        "avgSubmissions": 2.55,
+        "coverage": 1
+      },
+      {
+        "topic": "string",
+        "label": "String",
+        "weight": 0.9,
+        "available": 892,
+        "solved": 43,
+        "attemptedOnly": 2,
+        "target": 12,
+        "avgSubmissions": 2.4651162790697674,
+        "coverage": 1
+      },
+      {
+        "topic": "hash-table",
+        "label": "Hash Table",
+        "weight": 0.9,
+        "available": 831,
+        "solved": 35,
+        "attemptedOnly": 3,
+        "target": 12,
+        "avgSubmissions": 2.6857142857142855,
+        "coverage": 1
+      },
+      {
+        "topic": "tree",
+        "label": "Tree",
+        "weight": 0.9,
+        "available": 270,
+        "solved": 25,
+        "attemptedOnly": 0,
+        "target": 12,
+        "avgSubmissions": 1.92,
+        "coverage": 1
+      },
+      {
+        "topic": "binary-tree",
+        "label": "Binary Tree",
+        "weight": 0.9,
+        "available": 181,
+        "solved": 25,
+        "attemptedOnly": 0,
+        "target": 12,
+        "avgSubmissions": 1.92,
+        "coverage": 1
+      },
+      {
+        "topic": "depth-first-search",
+        "label": "Depth First Search",
+        "weight": 0.85,
+        "available": 349,
+        "solved": 28,
+        "attemptedOnly": 2,
+        "target": 12,
+        "avgSubmissions": 2.0714285714285716,
+        "coverage": 1
+      },
+      {
+        "topic": "binary-search",
+        "label": "Binary Search",
+        "weight": 0.85,
+        "available": 347,
+        "solved": 20,
+        "attemptedOnly": 2,
+        "target": 12,
+        "avgSubmissions": 2.3,
+        "coverage": 1
+      }
+    ],
+    "weaknesses": [
+      {
+        "topic": "topological-sort",
+        "label": "Topological Sort",
+        "weight": 0.55,
+        "available": 40,
+        "solved": 0,
+        "attemptedOnly": 1,
+        "target": 12,
+        "avgSubmissions": null,
+        "coverage": 0
+      },
+      {
+        "topic": "trie",
+        "label": "Trie",
+        "weight": 0.5,
+        "available": 61,
+        "solved": 1,
+        "attemptedOnly": 0,
+        "target": 12,
+        "avgSubmissions": 2,
+        "coverage": 0.08333333333333333
+      },
+      {
+        "topic": "queue",
+        "label": "Queue",
+        "weight": 0.6,
+        "available": 57,
+        "solved": 3,
+        "attemptedOnly": 0,
+        "target": 12,
+        "avgSubmissions": 1.6666666666666667,
+        "coverage": 0.25
+      },
+      {
+        "topic": "graph",
+        "label": "Graph",
+        "weight": 0.85,
+        "available": 189,
+        "solved": 6,
+        "attemptedOnly": 2,
+        "target": 12,
+        "avgSubmissions": 1.1666666666666667,
+        "coverage": 0.5
+      },
+      {
+        "topic": "union-find",
+        "label": "Union Find",
+        "weight": 0.55,
+        "available": 98,
+        "solved": 7,
+        "attemptedOnly": 2,
+        "target": 12,
+        "avgSubmissions": 1.7142857142857142,
+        "coverage": 0.5833333333333334
+      }
+    ],
+    "coreTopics": [
+      {
+        "topic": "array",
+        "label": "Array",
+        "weight": 1,
+        "available": 2237,
+        "solved": 119,
+        "attemptedOnly": 2,
+        "target": 12,
+        "avgSubmissions": 2.4453781512605044,
+        "coverage": 1
+      },
+      {
+        "topic": "string",
+        "label": "String",
+        "weight": 0.9,
+        "available": 892,
+        "solved": 43,
+        "attemptedOnly": 2,
+        "target": 12,
+        "avgSubmissions": 2.4651162790697674,
+        "coverage": 1
+      },
+      {
+        "topic": "hash-table",
+        "label": "Hash Table",
+        "weight": 0.9,
+        "available": 831,
+        "solved": 35,
+        "attemptedOnly": 3,
+        "target": 12,
+        "avgSubmissions": 2.6857142857142855,
+        "coverage": 1
+      },
+      {
+        "topic": "two-pointers",
+        "label": "Two Pointers",
+        "weight": 0.8,
+        "available": 261,
+        "solved": 26,
+        "attemptedOnly": 0,
+        "target": 12,
+        "avgSubmissions": 2.576923076923077,
+        "coverage": 1
+      },
+      {
+        "topic": "sliding-window",
+        "label": "Sliding Window",
+        "weight": 0.8,
+        "available": 169,
+        "solved": 16,
+        "attemptedOnly": 1,
+        "target": 12,
+        "avgSubmissions": 2,
+        "coverage": 1
+      },
+      {
+        "topic": "binary-search",
+        "label": "Binary Search",
+        "weight": 0.85,
+        "available": 347,
+        "solved": 20,
+        "attemptedOnly": 2,
+        "target": 12,
+        "avgSubmissions": 2.3,
+        "coverage": 1
+      },
+      {
+        "topic": "tree",
+        "label": "Tree",
+        "weight": 0.9,
+        "available": 270,
+        "solved": 25,
+        "attemptedOnly": 0,
+        "target": 12,
+        "avgSubmissions": 1.92,
+        "coverage": 1
+      },
+      {
+        "topic": "binary-tree",
+        "label": "Binary Tree",
+        "weight": 0.9,
+        "available": 181,
+        "solved": 25,
+        "attemptedOnly": 0,
+        "target": 12,
+        "avgSubmissions": 1.92,
+        "coverage": 1
+      },
+      {
+        "topic": "graph",
+        "label": "Graph",
+        "weight": 0.85,
+        "available": 189,
+        "solved": 6,
+        "attemptedOnly": 2,
+        "target": 12,
+        "avgSubmissions": 1.1666666666666667,
+        "coverage": 0.5
+      },
+      {
+        "topic": "depth-first-search",
+        "label": "Depth First Search",
+        "weight": 0.85,
+        "available": 349,
+        "solved": 28,
+        "attemptedOnly": 2,
+        "target": 12,
+        "avgSubmissions": 2.0714285714285716,
+        "coverage": 1
+      },
+      {
+        "topic": "breadth-first-search",
+        "label": "Breadth First Search",
+        "weight": 0.85,
+        "available": 260,
+        "solved": 20,
+        "attemptedOnly": 3,
+        "target": 12,
+        "avgSubmissions": 1.9,
+        "coverage": 1
+      },
+      {
+        "topic": "dynamic-programming",
+        "label": "Dynamic Programming",
+        "weight": 1,
+        "available": 676,
+        "solved": 40,
+        "attemptedOnly": 2,
+        "target": 12,
+        "avgSubmissions": 2.55,
+        "coverage": 1
+      },
+      {
+        "topic": "backtracking",
+        "label": "Backtracking",
+        "weight": 0.7,
+        "available": 114,
+        "solved": 12,
+        "attemptedOnly": 0,
+        "target": 12,
+        "avgSubmissions": 2.0833333333333335,
+        "coverage": 1
+      },
+      {
+        "topic": "greedy",
+        "label": "Greedy",
+        "weight": 0.75,
+        "available": 481,
+        "solved": 18,
+        "attemptedOnly": 0,
+        "target": 12,
+        "avgSubmissions": 2.2777777777777777,
+        "coverage": 1
+      },
+      {
+        "topic": "heap-priority-queue",
+        "label": "Heap Priority Queue",
+        "weight": 0.75,
+        "available": 221,
+        "solved": 9,
+        "attemptedOnly": 1,
+        "target": 12,
+        "avgSubmissions": 1.8888888888888888,
+        "coverage": 0.75
+      },
+      {
+        "topic": "linked-list",
+        "label": "Linked List",
+        "weight": 0.7,
+        "available": 82,
+        "solved": 12,
+        "attemptedOnly": 1,
+        "target": 12,
+        "avgSubmissions": 1.3333333333333333,
+        "coverage": 1
+      },
+      {
+        "topic": "stack",
+        "label": "Stack",
+        "weight": 0.7,
+        "available": 179,
+        "solved": 14,
+        "attemptedOnly": 0,
+        "target": 12,
+        "avgSubmissions": 1.6428571428571428,
+        "coverage": 1
+      },
+      {
+        "topic": "queue",
+        "label": "Queue",
+        "weight": 0.6,
+        "available": 57,
+        "solved": 3,
+        "attemptedOnly": 0,
+        "target": 12,
+        "avgSubmissions": 1.6666666666666667,
+        "coverage": 0.25
+      },
+      {
+        "topic": "sorting",
+        "label": "Sorting",
+        "weight": 0.6,
+        "available": 534,
+        "solved": 33,
+        "attemptedOnly": 0,
+        "target": 12,
+        "avgSubmissions": 2.4545454545454546,
+        "coverage": 1
+      },
+      {
+        "topic": "bit-manipulation",
+        "label": "Bit Manipulation",
+        "weight": 0.55,
+        "available": 290,
+        "solved": 8,
+        "attemptedOnly": 0,
+        "target": 12,
+        "avgSubmissions": 1.5,
+        "coverage": 0.6666666666666666
+      },
+      {
+        "topic": "math",
+        "label": "Math",
+        "weight": 0.5,
+        "available": 702,
+        "solved": 33,
+        "attemptedOnly": 3,
+        "target": 12,
+        "avgSubmissions": 1.6666666666666667,
+        "coverage": 1
+      },
+      {
+        "topic": "union-find",
+        "label": "Union Find",
+        "weight": 0.55,
+        "available": 98,
+        "solved": 7,
+        "attemptedOnly": 2,
+        "target": 12,
+        "avgSubmissions": 1.7142857142857142,
+        "coverage": 0.5833333333333334
+      },
+      {
+        "topic": "matrix",
+        "label": "Matrix",
+        "weight": 0.6,
+        "available": 283,
+        "solved": 17,
+        "attemptedOnly": 1,
+        "target": 12,
+        "avgSubmissions": 2.235294117647059,
+        "coverage": 1
+      },
+      {
+        "topic": "recursion",
+        "label": "Recursion",
+        "weight": 0.6,
+        "available": 51,
+        "solved": 8,
+        "attemptedOnly": 0,
+        "target": 12,
+        "avgSubmissions": 3,
+        "coverage": 0.6666666666666666
+      },
+      {
+        "topic": "prefix-sum",
+        "label": "Prefix Sum",
+        "weight": 0.6,
+        "available": 270,
+        "solved": 12,
+        "attemptedOnly": 1,
+        "target": 12,
+        "avgSubmissions": 2.5,
+        "coverage": 1
+      },
+      {
+        "topic": "design",
+        "label": "Design",
+        "weight": 0.55,
+        "available": 134,
+        "solved": 9,
+        "attemptedOnly": 1,
+        "target": 12,
+        "avgSubmissions": 2.888888888888889,
+        "coverage": 0.75
+      },
+      {
+        "topic": "trie",
+        "label": "Trie",
+        "weight": 0.5,
+        "available": 61,
+        "solved": 1,
+        "attemptedOnly": 0,
+        "target": 12,
+        "avgSubmissions": 2,
+        "coverage": 0.08333333333333333
+      },
+      {
+        "topic": "topological-sort",
+        "label": "Topological Sort",
+        "weight": 0.55,
+        "available": 40,
+        "solved": 0,
+        "attemptedOnly": 1,
+        "target": 12,
+        "avgSubmissions": null,
+        "coverage": 0
+      }
+    ],
+    "mostFumbled": [
+      {
+        "titleSlug": "3sum",
+        "title": "3Sum",
+        "difficulty": "MEDIUM",
+        "numSubmitted": 25,
+        "acRate": 39.85101851656529,
+        "questionId": "15"
+      },
+      {
+        "titleSlug": "subarray-sum-equals-k",
+        "title": "Subarray Sum Equals K",
+        "difficulty": "MEDIUM",
+        "numSubmitted": 13,
+        "acRate": 48.14636900298697,
+        "questionId": "560"
+      },
+      {
+        "titleSlug": "regular-expression-matching",
+        "title": "Regular Expression Matching",
+        "difficulty": "HARD",
+        "numSubmitted": 12,
+        "acRate": 31.73724338678921,
+        "questionId": "10"
+      },
+      {
+        "titleSlug": "merge-intervals",
+        "title": "Merge Intervals",
+        "difficulty": "MEDIUM",
+        "numSubmitted": 11,
+        "acRate": 52.777190797685826,
+        "questionId": "56"
+      },
+      {
+        "titleSlug": "two-sum",
+        "title": "Two Sum",
+        "difficulty": "EASY",
+        "numSubmitted": 10,
+        "acRate": 58.146217219003894,
+        "questionId": "1"
+      },
+      {
+        "titleSlug": "maximum-subarray",
+        "title": "Maximum Subarray",
+        "difficulty": "MEDIUM",
+        "numSubmitted": 10,
+        "acRate": 53.84738850718699,
+        "questionId": "53"
+      },
+      {
+        "titleSlug": "word-search",
+        "title": "Word Search",
+        "difficulty": "MEDIUM",
+        "numSubmitted": 10,
+        "acRate": 48.105376342137944,
+        "questionId": "79"
+      },
+      {
+        "titleSlug": "time-based-key-value-store",
+        "title": "Time Based Key-Value Store",
+        "difficulty": "MEDIUM",
+        "numSubmitted": 8,
+        "acRate": 50.17928791372852,
+        "questionId": "981"
+      },
+      {
+        "titleSlug": "best-time-to-buy-and-sell-stock-with-transaction-fee",
+        "title": "Best Time to Buy and Sell Stock with Transaction Fee",
+        "difficulty": "MEDIUM",
+        "numSubmitted": 8,
+        "acRate": 72.58682658511884,
+        "questionId": "714"
+      },
+      {
+        "titleSlug": "find-the-largest-almost-missing-integer",
+        "title": "Find the Largest Almost Missing Integer",
+        "difficulty": "EASY",
+        "numSubmitted": 7,
+        "acRate": 49.25469111434619,
+        "questionId": "3471"
+      }
+    ],
+    "stuckProblems": [
+      {
+        "titleSlug": "course-schedule",
+        "title": "Course Schedule",
+        "difficulty": "MEDIUM",
+        "numSubmitted": 5,
+        "acRate": 52.200328055447144,
+        "questionId": "207",
+        "topicTags": [
+          "Depth First Search",
+          "Breadth First Search",
+          "Graph",
+          "Topological Sort",
+          "Directed Acyclic Graph"
+        ]
+      },
+      {
+        "titleSlug": "lru-cache",
+        "title": "LRU Cache",
+        "difficulty": "MEDIUM",
+        "numSubmitted": 4,
+        "acRate": 48.01964530488579,
+        "questionId": "146",
+        "topicTags": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly Linked List"
+        ]
+      },
+      {
+        "titleSlug": "sorted-gcd-pair-queries",
+        "title": "Sorted GCD Pair Queries",
+        "difficulty": "HARD",
+        "numSubmitted": 4,
+        "acRate": 58.25292539750417,
+        "questionId": "3312",
+        "topicTags": [
+          "Array",
+          "Hash Table",
+          "Math",
+          "Binary Search",
+          "Combinatorics",
+          "Counting",
+          "Number Theory",
+          "Prefix Sum",
+          "Euclidean Algorithm",
+          "Greatest Common Divisor"
+        ]
+      },
+      {
+        "titleSlug": "find-the-safest-path-in-a-grid",
+        "title": "Find the Safest Path in a Grid",
+        "difficulty": "MEDIUM",
+        "numSubmitted": 3,
+        "acRate": 57.363462452865654,
+        "questionId": "2812",
+        "topicTags": [
+          "Array",
+          "Binary Search",
+          "Breadth First Search",
+          "Union Find",
+          "Heap Priority Queue",
+          "Matrix"
+        ]
+      },
+      {
+        "titleSlug": "guess-number-higher-or-lower-ii",
+        "title": "Guess Number Higher or Lower II",
+        "difficulty": "MEDIUM",
+        "numSubmitted": 2,
+        "acRate": 53.46582461847339,
+        "questionId": "375",
+        "topicTags": [
+          "Math",
+          "Dynamic Programming",
+          "Minimax Algorithm",
+          "Game Theory"
+        ]
+      },
+      {
+        "titleSlug": "smallest-palindromic-rearrangement-ii",
+        "title": "Smallest Palindromic Rearrangement II",
+        "difficulty": "HARD",
+        "numSubmitted": 2,
+        "acRate": 43.88564384044146,
+        "questionId": "3518",
+        "topicTags": [
+          "Hash Table",
+          "Math",
+          "String",
+          "Combinatorics",
+          "Counting"
+        ]
+      },
+      {
+        "titleSlug": "minimum-number-of-flips-to-make-the-binary-string-alternating",
+        "title": "Minimum Number of Flips to Make the Binary String Alternating",
+        "difficulty": "MEDIUM",
+        "numSubmitted": 1,
+        "acRate": 53.675768882626876,
+        "questionId": "1888",
+        "topicTags": [
+          "String",
+          "Dynamic Programming",
+          "Sliding Window"
+        ]
+      },
+      {
+        "titleSlug": "minimum-score-of-a-path-between-two-cities",
+        "title": "Minimum Score of a Path Between Two Cities",
+        "difficulty": "MEDIUM",
+        "numSubmitted": 1,
+        "acRate": 66.25952501905003,
+        "questionId": "2492",
+        "topicTags": [
+          "Depth First Search",
+          "Breadth First Search",
+          "Union Find",
+          "Graph"
+        ]
+      }
+    ],
+    "recentSolved": [
+      {
+        "titleSlug": "count-commas-in-range",
+        "title": "Count Commas in Range",
+        "difficulty": "EASY",
+        "lastSubmittedAt": "2026-09-08T05:43:53+00:00",
+        "acRate": 78.13893089617989,
+        "questionId": "3870"
+      },
+      {
+        "titleSlug": "smallest-stable-index-ii",
+        "title": "Smallest Stable Index II",
+        "difficulty": "MEDIUM",
+        "lastSubmittedAt": "2026-09-07T12:22:15+00:00",
+        "acRate": 74.94721662125929,
+        "questionId": "3904"
+      },
+      {
+        "titleSlug": "find-the-minimum-and-maximum-number-of-nodes-between-critical-points",
+        "title": "Find the Minimum and Maximum Number of Nodes Between Critical Points",
+        "difficulty": "MEDIUM",
+        "lastSubmittedAt": "2026-08-31T17:31:23+00:00",
+        "acRate": 72.99099813168772,
+        "questionId": "2058"
+      },
+      {
+        "titleSlug": "burst-balloons",
+        "title": "Burst Balloons",
+        "difficulty": "HARD",
+        "lastSubmittedAt": "2026-08-31T16:55:17+00:00",
+        "acRate": 64.36576772907154,
+        "questionId": "312"
+      },
+      {
+        "titleSlug": "house-robber-iii",
+        "title": "House Robber III",
+        "difficulty": "MEDIUM",
+        "lastSubmittedAt": "2026-08-31T14:41:40+00:00",
+        "acRate": 56.33067892996845,
+        "questionId": "337"
+      },
+      {
+        "titleSlug": "make-lexicographically-smallest-array-by-swapping-elements",
+        "title": "Make Lexicographically Smallest Array by Swapping Elements",
+        "difficulty": "MEDIUM",
+        "lastSubmittedAt": "2026-08-30T18:04:21+00:00",
+        "acRate": 66.50130861586688,
+        "questionId": "2948"
+      },
+      {
+        "titleSlug": "check-divisibility-by-digit-sum-and-product",
+        "title": "Check Divisibility by Digit Sum and Product",
+        "difficulty": "EASY",
+        "lastSubmittedAt": "2026-08-22T18:18:04+00:00",
+        "acRate": 74.55285303505948,
+        "questionId": "3622"
+      },
+      {
+        "titleSlug": "robot-return-to-origin",
+        "title": "Robot Return to Origin",
+        "difficulty": "EASY",
+        "lastSubmittedAt": "2026-08-20T22:26:41+00:00",
+        "acRate": 78.20288871365402,
+        "questionId": "657"
+      },
+      {
+        "titleSlug": "check-if-strings-can-be-made-equal-with-operations-ii",
+        "title": "Check if Strings Can be Made Equal With Operations II",
+        "difficulty": "MEDIUM",
+        "lastSubmittedAt": "2026-08-20T22:24:19+00:00",
+        "acRate": 73.93504462232036,
+        "questionId": "2840"
+      },
+      {
+        "titleSlug": "check-if-strings-can-be-made-equal-with-operations-i",
+        "title": "Check if Strings Can be Made Equal With Operations I",
+        "difficulty": "EASY",
+        "lastSubmittedAt": "2026-08-20T22:23:44+00:00",
+        "acRate": 61.89118612395487,
+        "questionId": "2839"
+      },
+      {
+        "titleSlug": "furthest-point-from-origin",
+        "title": "Furthest Point From Origin",
+        "difficulty": "EASY",
+        "lastSubmittedAt": "2026-08-20T22:18:42+00:00",
+        "acRate": 77.2365180247679,
+        "questionId": "2833"
+      },
+      {
+        "titleSlug": "find-the-largest-almost-missing-integer",
+        "title": "Find the Largest Almost Missing Integer",
+        "difficulty": "EASY",
+        "lastSubmittedAt": "2026-08-20T22:14:30+00:00",
+        "acRate": 49.25469111434619,
+        "questionId": "3471"
+      },
+      {
+        "titleSlug": "cinema-seat-allocation",
+        "title": "Cinema Seat Allocation",
+        "difficulty": "MEDIUM",
+        "lastSubmittedAt": "2026-08-20T22:03:38+00:00",
+        "acRate": 56.9628466499695,
+        "questionId": "1386"
+      },
+      {
+        "titleSlug": "distribute-elements-into-two-arrays-i",
+        "title": "Distribute Elements Into Two Arrays I",
+        "difficulty": "EASY",
+        "lastSubmittedAt": "2026-08-20T21:51:15+00:00",
+        "acRate": 83.68416988103125,
+        "questionId": "3069"
+      },
+      {
+        "titleSlug": "student-attendance-record-ii",
+        "title": "Student Attendance Record II",
+        "difficulty": "HARD",
+        "lastSubmittedAt": "2026-08-15T15:12:55+00:00",
+        "acRate": 56.945340073083294,
+        "questionId": "552"
+      }
+    ],
+    "narrative": "Strongest in Array and Dynamic Programming (119 solved, ~2.4 tries/solve). Focus next on Topological Sort and Trie — core interview topics with light coverage so far. Averaging 2.2 submissions per solve — tightening up edge cases before submitting would help. Good recent momentum: 35 solved in the last 30 days. Weakest simulated round right now: Bar Raiser / Hard Problems (needs work).",
+    "history": [
+      {
+        "date": "2026-09-11",
+        "solvedCount": 215
+      }
+    ],
+    "dueForReview": [
+      {
+        "titleSlug": "add-two-numbers",
+        "title": "Add Two Numbers",
+        "difficulty": "Medium",
+        "acRate": 49.31028513142689,
+        "questionId": "2",
+        "overdueDays": 1932,
+        "interval": 1,
+        "repetitions": 0,
+        "easeFactor": 2.5
+      },
+      {
+        "titleSlug": "maximum-sum-of-3-non-overlapping-subarrays",
+        "title": "Maximum Sum of 3 Non-Overlapping Subarrays",
+        "difficulty": "Hard",
+        "acRate": 60.02484137435652,
+        "questionId": "689",
+        "overdueDays": 1931,
+        "interval": 1,
+        "repetitions": 0,
+        "easeFactor": 2.5
+      },
+      {
+        "titleSlug": "largest-rectangle-in-histogram",
+        "title": "Largest Rectangle in Histogram",
+        "difficulty": "Hard",
+        "acRate": 50.82992282610361,
+        "questionId": "84",
+        "overdueDays": 1815,
+        "interval": 1,
+        "repetitions": 0,
+        "easeFactor": 2.5
+      },
+      {
+        "titleSlug": "maximum-product-subarray",
+        "title": "Maximum Product Subarray",
+        "difficulty": "Medium",
+        "acRate": 37.03353363185032,
+        "questionId": "152",
+        "overdueDays": 1814,
+        "interval": 1,
+        "repetitions": 0,
+        "easeFactor": 2.5
+      },
+      {
+        "titleSlug": "trapping-rain-water",
+        "title": "Trapping Rain Water",
+        "difficulty": "Hard",
+        "acRate": 68.1976831282175,
+        "questionId": "42",
+        "overdueDays": 1814,
+        "interval": 1,
+        "repetitions": 0,
+        "easeFactor": 2.5
+      },
+      {
+        "titleSlug": "add-binary",
+        "title": "Add Binary",
+        "difficulty": "Easy",
+        "acRate": 58.618347766208686,
+        "questionId": "67",
+        "overdueDays": 1813,
+        "interval": 1,
+        "repetitions": 0,
+        "easeFactor": 2.5
+      },
+      {
+        "titleSlug": "happy-number",
+        "title": "Happy Number",
+        "difficulty": "Easy",
+        "acRate": 60.25024308496653,
+        "questionId": "202",
+        "overdueDays": 1813,
+        "interval": 1,
+        "repetitions": 0,
+        "easeFactor": 2.5
+      },
+      {
+        "titleSlug": "max-points-on-a-line",
+        "title": "Max Points on a Line",
+        "difficulty": "Hard",
+        "acRate": 31.410925465263904,
+        "questionId": "149",
+        "overdueDays": 1812,
+        "interval": 1,
+        "repetitions": 0,
+        "easeFactor": 2.5
+      },
+      {
+        "titleSlug": "factorial-trailing-zeroes",
+        "title": "Factorial Trailing Zeroes",
+        "difficulty": "Medium",
+        "acRate": 47.37184137547795,
+        "questionId": "172",
+        "overdueDays": 1811,
+        "interval": 1,
+        "repetitions": 0,
+        "easeFactor": 2.5
+      },
+      {
+        "titleSlug": "smallest-good-base",
+        "title": "Smallest Good Base",
+        "difficulty": "Hard",
+        "acRate": 47.40899829285753,
+        "questionId": "483",
+        "overdueDays": 1811,
+        "interval": 1,
+        "repetitions": 0,
+        "easeFactor": 2.5
+      },
+      {
+        "titleSlug": "unique-binary-search-trees",
+        "title": "Unique Binary Search Trees",
+        "difficulty": "Medium",
+        "acRate": 64.18954659461728,
+        "questionId": "96",
+        "overdueDays": 1793,
+        "interval": 1,
+        "repetitions": 0,
+        "easeFactor": 2.5
+      },
+      {
+        "titleSlug": "minimum-path-sum",
+        "title": "Minimum Path Sum",
+        "difficulty": "Medium",
+        "acRate": 68.87809566129474,
+        "questionId": "64",
+        "overdueDays": 1792,
+        "interval": 1,
+        "repetitions": 0,
+        "easeFactor": 2.5
+      },
+      {
+        "titleSlug": "binary-tree-level-order-traversal",
+        "title": "Binary Tree Level Order Traversal",
+        "difficulty": "Medium",
+        "acRate": 73.44700597158158,
+        "questionId": "102",
+        "overdueDays": 1792,
+        "interval": 1,
+        "repetitions": 0,
+        "easeFactor": 2.5
+      },
+      {
+        "titleSlug": "binary-tree-preorder-traversal",
+        "title": "Binary Tree Preorder Traversal",
+        "difficulty": "Easy",
+        "acRate": 76.64533063098858,
+        "questionId": "144",
+        "overdueDays": 1792,
+        "interval": 1,
+        "repetitions": 0,
+        "easeFactor": 2.5
+      },
+      {
+        "titleSlug": "binary-tree-postorder-traversal",
+        "title": "Binary Tree Postorder Traversal",
+        "difficulty": "Easy",
+        "acRate": 78.9915572895027,
+        "questionId": "145",
+        "overdueDays": 1791,
+        "interval": 1,
+        "repetitions": 0,
+        "easeFactor": 2.5
+      },
+      {
+        "titleSlug": "construct-binary-tree-from-preorder-and-inorder-traversal",
+        "title": "Construct Binary Tree from Preorder and Inorder Traversal",
+        "difficulty": "Medium",
+        "acRate": 69.52774165499957,
+        "questionId": "105",
+        "overdueDays": 1791,
+        "interval": 1,
+        "repetitions": 0,
+        "easeFactor": 2.5
+      },
+      {
+        "titleSlug": "binary-tree-zigzag-level-order-traversal",
+        "title": "Binary Tree Zigzag Level Order Traversal",
+        "difficulty": "Medium",
+        "acRate": 64.47186899989326,
+        "questionId": "103",
+        "overdueDays": 1791,
+        "interval": 1,
+        "repetitions": 0,
+        "easeFactor": 2.5
+      },
+      {
+        "titleSlug": "path-sum-ii",
+        "title": "Path Sum II",
+        "difficulty": "Medium",
+        "acRate": 62.90062980928851,
+        "questionId": "113",
+        "overdueDays": 1791,
+        "interval": 1,
+        "repetitions": 0,
+        "easeFactor": 2.5
+      },
+      {
+        "titleSlug": "binary-tree-maximum-path-sum",
+        "title": "Binary Tree Maximum Path Sum",
+        "difficulty": "Hard",
+        "acRate": 42.758089626335014,
+        "questionId": "124",
+        "overdueDays": 1791,
+        "interval": 1,
+        "repetitions": 0,
+        "easeFactor": 2.5
+      },
+      {
+        "titleSlug": "balanced-binary-tree",
+        "title": "Balanced Binary Tree",
+        "difficulty": "Easy",
+        "acRate": 59.170613686502826,
+        "questionId": "110",
+        "overdueDays": 1791,
+        "interval": 1,
+        "repetitions": 0,
+        "easeFactor": 2.5
+      },
+      {
+        "titleSlug": "convert-sorted-array-to-binary-search-tree",
+        "title": "Convert Sorted Array to Binary Search Tree",
+        "difficulty": "Easy",
+        "acRate": 76.09538580845289,
+        "questionId": "108",
+        "overdueDays": 1791,
+        "interval": 1,
+        "repetitions": 0,
+        "easeFactor": 2.5
+      },
+      {
+        "titleSlug": "validate-binary-search-tree",
+        "title": "Validate Binary Search Tree",
+        "difficulty": "Medium",
+        "acRate": 36.32289755730657,
+        "questionId": "98",
+        "overdueDays": 1791,
+        "interval": 1,
+        "repetitions": 0,
+        "easeFactor": 2.5
+      },
+      {
+        "titleSlug": "insufficient-nodes-in-root-to-leaf-paths",
+        "title": "Insufficient Nodes in Root to Leaf Paths",
+        "difficulty": "Medium",
+        "acRate": 55.85586512829486,
+        "questionId": "1080",
+        "overdueDays": 1791,
+        "interval": 1,
+        "repetitions": 0,
+        "easeFactor": 2.5
+      },
+      {
+        "titleSlug": "serialize-and-deserialize-binary-tree",
+        "title": "Serialize and Deserialize Binary Tree",
+        "difficulty": "Hard",
+        "acRate": 61.11969631690651,
+        "questionId": "297",
+        "overdueDays": 1790,
+        "interval": 1,
+        "repetitions": 0,
+        "easeFactor": 2.5
+      },
+      {
+        "titleSlug": "min-stack",
+        "title": "Min Stack",
+        "difficulty": "Medium",
+        "acRate": 58.650030291137234,
+        "questionId": "155",
+        "overdueDays": 1771,
+        "interval": 1,
+        "repetitions": 0,
+        "easeFactor": 2.5
+      },
+      {
+        "titleSlug": "merge-two-binary-trees",
+        "title": "Merge Two Binary Trees",
+        "difficulty": "Easy",
+        "acRate": 79.17994973663373,
+        "questionId": "617",
+        "overdueDays": 1765,
+        "interval": 1,
+        "repetitions": 0,
+        "easeFactor": 2.5
+      },
+      {
+        "titleSlug": "contains-duplicate",
+        "title": "Contains Duplicate",
+        "difficulty": "Easy",
+        "acRate": 64.70030594457599,
+        "questionId": "217",
+        "overdueDays": 1762,
+        "interval": 1,
+        "repetitions": 0,
+        "easeFactor": 2.5
+      },
+      {
+        "titleSlug": "find-first-and-last-position-of-element-in-sorted-array",
+        "title": "Find First and Last Position of Element in Sorted Array",
+        "difficulty": "Medium",
+        "acRate": 49.631322365254334,
+        "questionId": "34",
+        "overdueDays": 1762,
+        "interval": 1,
+        "repetitions": 0,
+        "easeFactor": 2.5
+      },
+      {
+        "titleSlug": "search-in-rotated-sorted-array",
+        "title": "Search in Rotated Sorted Array",
+        "difficulty": "Medium",
+        "acRate": 45.60586806093602,
+        "questionId": "33",
+        "overdueDays": 1762,
+        "interval": 1,
+        "repetitions": 0,
+        "easeFactor": 2.5
+      },
+      {
+        "titleSlug": "search-a-2d-matrix",
+        "title": "Search a 2D Matrix",
+        "difficulty": "Medium",
+        "acRate": 54.347538355798655,
+        "questionId": "74",
+        "overdueDays": 1762,
+        "interval": 1,
+        "repetitions": 0,
+        "easeFactor": 2.5
+      },
+      {
+        "titleSlug": "single-number",
+        "title": "Single Number",
+        "difficulty": "Easy",
+        "acRate": 78.29385875183304,
+        "questionId": "136",
+        "overdueDays": 1762,
+        "interval": 1,
+        "repetitions": 0,
+        "easeFactor": 2.5
+      },
+      {
+        "titleSlug": "majority-element",
+        "title": "Majority Element",
+        "difficulty": "Easy",
+        "acRate": 66.53415670226899,
+        "questionId": "169",
+        "overdueDays": 1762,
+        "interval": 1,
+        "repetitions": 0,
+        "easeFactor": 2.5
+      },
+      {
+        "titleSlug": "fibonacci-number",
+        "title": "Fibonacci Number",
+        "difficulty": "Easy",
+        "acRate": 74.62829952459214,
+        "questionId": "509",
+        "overdueDays": 1762,
+        "interval": 1,
+        "repetitions": 0,
+        "easeFactor": 2.5
+      },
+      {
+        "titleSlug": "n-th-tribonacci-number",
+        "title": "N-th Tribonacci Number",
+        "difficulty": "Easy",
+        "acRate": 63.050584892293216,
+        "questionId": "1137",
+        "overdueDays": 1762,
+        "interval": 1,
+        "repetitions": 0,
+        "easeFactor": 2.5
+      },
+      {
+        "titleSlug": "remove-linked-list-elements",
+        "title": "Remove Linked List Elements",
+        "difficulty": "Easy",
+        "acRate": 55.424490213695144,
+        "questionId": "203",
+        "overdueDays": 1762,
+        "interval": 1,
+        "repetitions": 0,
+        "easeFactor": 2.5
+      },
+      {
+        "titleSlug": "find-minimum-in-rotated-sorted-array",
+        "title": "Find Minimum in Rotated Sorted Array",
+        "difficulty": "Medium",
+        "acRate": 55.298737125589994,
+        "questionId": "153",
+        "overdueDays": 1758,
+        "interval": 1,
+        "repetitions": 0,
+        "easeFactor": 2.5
+      },
+      {
+        "titleSlug": "find-peak-element",
+        "title": "Find Peak Element",
+        "difficulty": "Medium",
+        "acRate": 47.186236121289426,
+        "questionId": "162",
+        "overdueDays": 1758,
+        "interval": 1,
+        "repetitions": 0,
+        "easeFactor": 2.5
+      },
+      {
+        "titleSlug": "remove-duplicates-from-sorted-list-ii",
+        "title": "Remove Duplicates from Sorted List II",
+        "difficulty": "Medium",
+        "acRate": 52.50593712131142,
+        "questionId": "82",
+        "overdueDays": 1758,
+        "interval": 1,
+        "repetitions": 0,
+        "easeFactor": 2.5
+      },
+      {
+        "titleSlug": "backspace-string-compare",
+        "title": "Backspace String Compare",
+        "difficulty": "Easy",
+        "acRate": 50.229307669902866,
+        "questionId": "844",
+        "overdueDays": 1758,
+        "interval": 1,
+        "repetitions": 0,
+        "easeFactor": 2.5
+      },
+      {
+        "titleSlug": "interval-list-intersections",
+        "title": "Interval List Intersections",
+        "difficulty": "Medium",
+        "acRate": 73.1913224786455,
+        "questionId": "986",
+        "overdueDays": 1758,
+        "interval": 1,
+        "repetitions": 0,
+        "easeFactor": 2.5
+      },
+      {
+        "titleSlug": "subarray-product-less-than-k",
+        "title": "Subarray Product Less Than K",
+        "difficulty": "Medium",
+        "acRate": 54.90309820738955,
+        "questionId": "713",
+        "overdueDays": 1758,
+        "interval": 1,
+        "repetitions": 0,
+        "easeFactor": 2.5
+      },
+      {
+        "titleSlug": "minimum-size-subarray-sum",
+        "title": "Minimum Size Subarray Sum",
+        "difficulty": "Medium",
+        "acRate": 52.87533885066773,
+        "questionId": "209",
+        "overdueDays": 1758,
+        "interval": 1,
+        "repetitions": 0,
+        "easeFactor": 2.5
+      },
+      {
+        "titleSlug": "number-of-islands",
+        "title": "Number of Islands",
+        "difficulty": "Medium",
+        "acRate": 65.11405557655408,
+        "questionId": "200",
+        "overdueDays": 1758,
+        "interval": 1,
+        "repetitions": 0,
+        "easeFactor": 2.5
+      },
+      {
+        "titleSlug": "populating-next-right-pointers-in-each-node-ii",
+        "title": "Populating Next Right Pointers in Each Node II",
+        "difficulty": "Medium",
+        "acRate": 58.18091988430842,
+        "questionId": "117",
+        "overdueDays": 1757,
+        "interval": 1,
+        "repetitions": 0,
+        "easeFactor": 2.5
+      },
+      {
+        "titleSlug": "subtree-of-another-tree",
+        "title": "Subtree of Another Tree",
+        "difficulty": "Easy",
+        "acRate": 52.17092329497861,
+        "questionId": "572",
+        "overdueDays": 1757,
+        "interval": 1,
+        "repetitions": 0,
+        "easeFactor": 2.5
+      },
+      {
+        "titleSlug": "find-all-anagrams-in-a-string",
+        "title": "Find All Anagrams in a String",
+        "difficulty": "Medium",
+        "acRate": 54.49980658322654,
+        "questionId": "438",
+        "overdueDays": 1757,
+        "interval": 1,
+        "repetitions": 0,
+        "easeFactor": 2.5
+      },
+      {
+        "titleSlug": "sort-colors",
+        "title": "Sort Colors",
+        "difficulty": "Medium",
+        "acRate": 70.21599601078616,
+        "questionId": "75",
+        "overdueDays": 1757,
+        "interval": 1,
+        "repetitions": 0,
+        "easeFactor": 2.5
+      },
+      {
+        "titleSlug": "design-hashmap",
+        "title": "Design HashMap",
+        "difficulty": "Easy",
+        "acRate": 66.78773536628898,
+        "questionId": "706",
+        "overdueDays": 1757,
+        "interval": 1,
+        "repetitions": 0,
+        "easeFactor": 2.5
+      },
+      {
+        "titleSlug": "pascals-triangle-ii",
+        "title": "Pascal's Triangle II",
+        "difficulty": "Easy",
+        "acRate": 68.00944487500695,
+        "questionId": "119",
+        "overdueDays": 1757,
+        "interval": 1,
+        "repetitions": 0,
+        "easeFactor": 2.5
+      },
+      {
+        "titleSlug": "search-a-2d-matrix-ii",
+        "title": "Search a 2D Matrix II",
+        "difficulty": "Medium",
+        "acRate": 58.057470592320904,
+        "questionId": "240",
+        "overdueDays": 1757,
+        "interval": 1,
+        "repetitions": 0,
+        "easeFactor": 2.5
+      }
+    ]
+  },
+  "recommendations": [
+    {
+      "questionId": "445",
+      "title": "Add Two Numbers II",
+      "titleSlug": "add-two-numbers-ii",
+      "difficulty": "Medium",
+      "acRate": 63.02687617798048,
+      "topicTags": [
+        "linked-list",
+        "math",
+        "stack"
+      ],
+      "reason": "Continue \"Add Two Numbers\" — 50% done"
+    },
+    {
+      "questionId": "81",
+      "title": "Search in Rotated Sorted Array II",
+      "titleSlug": "search-in-rotated-sorted-array-ii",
+      "difficulty": "Medium",
+      "acRate": 40.55258905673244,
+      "topicTags": [
+        "array",
+        "binary-search"
+      ],
+      "reason": "Continue \"Search in Rotated Sorted Array\" — 50% done"
+    },
+    {
+      "questionId": "216",
+      "title": "Combination Sum III",
+      "titleSlug": "combination-sum-iii",
+      "difficulty": "Medium",
+      "acRate": 73.74600250722747,
+      "topicTags": [
+        "array",
+        "backtracking"
+      ],
+      "reason": "Continue \"Combination Sum\" — 50% done"
+    },
+    {
+      "questionId": "407",
+      "title": "Trapping Rain Water II",
+      "titleSlug": "trapping-rain-water-ii",
+      "difficulty": "Hard",
+      "acRate": 64.22269518175085,
+      "topicTags": [
+        "array",
+        "breadth-first-search",
+        "heap-priority-queue",
+        "matrix"
+      ],
+      "reason": "Continue \"Trapping Rain Water\" — 50% done"
+    },
+    {
+      "questionId": "212",
+      "title": "Word Search II",
+      "titleSlug": "word-search-ii",
+      "difficulty": "Hard",
+      "acRate": 38.880121343913295,
+      "topicTags": [
+        "array",
+        "string",
+        "backtracking",
+        "trie",
+        "matrix"
+      ],
+      "reason": "Continue \"Word Search\" — 50% done"
+    },
+    {
+      "questionId": "83",
+      "title": "Remove Duplicates from Sorted List",
+      "titleSlug": "remove-duplicates-from-sorted-list",
+      "difficulty": "Easy",
+      "acRate": 57.49450704443617,
+      "topicTags": [
+        "linked-list"
+      ],
+      "reason": "Continue \"Remove Duplicates from Sorted List\" — 50% done"
+    },
+    {
+      "questionId": "2392",
+      "title": "Build a Matrix With Conditions",
+      "titleSlug": "build-a-matrix-with-conditions",
+      "difficulty": "Hard",
+      "acRate": 79.38808605715522,
+      "topicTags": [
+        "array",
+        "graph",
+        "topological-sort",
+        "matrix",
+        "directed-acyclic-graph"
+      ],
+      "reason": "Strengthen a weak topic: Topological Sort"
+    },
+    {
+      "questionId": "1233",
+      "title": "Remove Sub-Folders from the Filesystem",
+      "titleSlug": "remove-sub-folders-from-the-filesystem",
+      "difficulty": "Medium",
+      "acRate": 78.60375729791838,
+      "topicTags": [
+        "array",
+        "string",
+        "depth-first-search",
+        "trie"
+      ],
+      "reason": "Strengthen a weak topic: Trie"
+    },
+    {
+      "questionId": "950",
+      "title": "Reveal Cards In Increasing Order",
+      "titleSlug": "reveal-cards-in-increasing-order",
+      "difficulty": "Medium",
+      "acRate": 83.79398001429476,
+      "topicTags": [
+        "array",
+        "queue",
+        "sorting",
+        "simulation"
+      ],
+      "reason": "Strengthen a weak topic: Queue"
+    },
+    {
+      "questionId": "3898",
+      "title": "Find the Degree of Each Vertex",
+      "titleSlug": "find-the-degree-of-each-vertex",
+      "difficulty": "Easy",
+      "acRate": 91.8699286492308,
+      "topicTags": [
+        "array",
+        "graph",
+        "matrix"
+      ],
+      "reason": "Strengthen a weak topic: Graph"
+    },
+    {
+      "questionId": "2",
+      "title": "Add Two Numbers",
+      "titleSlug": "add-two-numbers",
+      "difficulty": "Medium",
+      "acRate": 49.31028513142689,
+      "topicTags": [
+        "linked-list",
+        "math",
+        "recursion"
+      ],
+      "reason": "Review — 1932d overdue"
+    },
+    {
+      "questionId": "689",
+      "title": "Maximum Sum of 3 Non-Overlapping Subarrays",
+      "titleSlug": "maximum-sum-of-3-non-overlapping-subarrays",
+      "difficulty": "Hard",
+      "acRate": 60.02484137435652,
+      "topicTags": [
+        "array",
+        "dynamic-programming",
+        "sliding-window",
+        "prefix-sum"
+      ],
+      "reason": "Review — 1931d overdue"
+    },
+    {
+      "questionId": "84",
+      "title": "Largest Rectangle in Histogram",
+      "titleSlug": "largest-rectangle-in-histogram",
+      "difficulty": "Hard",
+      "acRate": 50.82992282610361,
+      "topicTags": [
+        "array",
+        "stack",
+        "monotonic-stack",
+        "range-minimum-maximum-query"
+      ],
+      "reason": "Review — 1815d overdue"
+    },
+    {
+      "questionId": "92",
+      "title": "Reverse Linked List II",
+      "titleSlug": "reverse-linked-list-ii",
+      "difficulty": "Medium",
+      "acRate": 52.35571874784941,
+      "topicTags": [
+        "linked-list"
+      ],
+      "reason": "Continue \"Reverse Linked List\" — 50% done"
+    },
+    {
+      "questionId": "95",
+      "title": "Unique Binary Search Trees II",
+      "titleSlug": "unique-binary-search-trees-ii",
+      "difficulty": "Medium",
+      "acRate": 63.305284513373984,
+      "topicTags": [
+        "dynamic-programming",
+        "backtracking",
+        "tree",
+        "binary-search-tree",
+        "binary-tree"
+      ],
+      "reason": "Continue \"Unique Binary Search Trees\" — 50% done"
+    }
+  ],
+  "priorityList": [],
+  "overrides": {
+    "topicBoosts": {},
+    "topicSuppress": [],
+    "pinnedSlugs": [],
+    "excludedSlugs": []
+  }
+}
