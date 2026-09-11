@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T18:47:08.414Z",
+  "generatedAt": "2026-09-11T19:47:06.136Z",
   "status": {
     "syncedAt": "2026-09-11T18:46:57.393Z",
     "signedIn": true,
@@ -2417,7 +2417,7 @@
         "difficulty": "Medium",
         "acRate": 37.03353363185032,
         "questionId": "152",
-        "overdueDays": 1814,
+        "overdueDays": 1815,
         "interval": 1,
         "repetitions": 0,
         "easeFactor": 2.5
@@ -2670,7 +2670,7 @@
         "difficulty": "Easy",
         "acRate": 64.70030594457599,
         "questionId": "217",
-        "overdueDays": 1762,
+        "overdueDays": 1763,
         "interval": 1,
         "repetitions": 0,
         "easeFactor": 2.5
